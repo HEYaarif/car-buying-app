@@ -109,11 +109,12 @@ _Optional_: Ignore additional pages from Figma unless required.
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/second-hand-car-app.git
-cd second-hand-car-app
+```
+git clone https://github.com/HEYaarif/car-buying-app.git
+cd CarSpace
+```
 
-Project Structure
+## Project Structure
 
 src/
 │
